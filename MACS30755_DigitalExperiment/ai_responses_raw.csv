@@ -1,0 +1,801 @@
+agent.party_affiliation,agent.race_ethnicity,agent.education_level,agent.has_college_degree,answer.trust_scientists,at_least_fair,great_deal,party_simple
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+True independent,Hispanic,HS or less,False,Not too much confidence,0,0,Independents
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Black,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Asian,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A great deal of confidence,1,1,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+True independent,White,Some college,False,Not too much confidence,0,0,Independents
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+True independent,White,HS or less,False,A fair amount of confidence,1,0,Independents
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,Postgrad,True,Not too much confidence,0,0,Republicans
+Republican / lean R,Hispanic,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Bachelor's,True,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Other,Some college,False,A fair amount of confidence,1,0,Republicans
+True independent,White,HS or less,False,A fair amount of confidence,1,0,Independents
+Republican / lean R,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Other,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Other,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A great deal of confidence,1,1,Democrats
+Democrat / lean D,Black,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,Black,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Black,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Asian,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+True independent,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Independents
+Republican / lean R,Other,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Asian,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,Postgrad,True,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Bachelor's,True,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Asian,Postgrad,True,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Bachelor's,True,Not too much confidence,0,0,Republicans
+Republican / lean R,Black,Postgrad,True,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Other,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+True independent,White,Bachelor's,True,Not too much confidence,0,0,Independents
+Republican / lean R,Hispanic,Postgrad,True,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Republican / lean R,Black,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Other,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+True independent,White,Some college,False,A fair amount of confidence,1,0,Independents
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A great deal of confidence,1,1,Democrats
+Republican / lean R,Black,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+True independent,White,Bachelor's,True,A fair amount of confidence,1,0,Independents
+True independent,Black,Some college,False,Not too much confidence,0,0,Independents
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,Postgrad,True,A fair amount of confidence,1,0,Democrats
+True independent,Asian,Postgrad,True,A fair amount of confidence,1,0,Independents
+True independent,White,HS or less,False,A fair amount of confidence,1,0,Independents
+True independent,Asian,HS or less,False,Not too much confidence,0,0,Independents
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Democrat / lean D,Asian,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Black,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Black,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Asian,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Asian,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Other,Bachelor's,True,Not too much confidence,0,0,Republicans
+Democrat / lean D,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Other,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Postgrad,True,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,Asian,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Hispanic,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Other,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Republicans
+True independent,White,HS or less,False,Not too much confidence,0,0,Independents
+Republican / lean R,Asian,Some college,False,Not too much confidence,0,0,Republicans
+True independent,White,HS or less,False,A fair amount of confidence,1,0,Independents
+Democrat / lean D,Black,Some college,False,A fair amount of confidence,1,0,Democrats
+True independent,White,Postgrad,True,A fair amount of confidence,1,0,Independents
+Republican / lean R,Black,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+True independent,Hispanic,HS or less,False,A fair amount of confidence,1,0,Independents
+Republican / lean R,Hispanic,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Other,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Black,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Asian,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Bachelor's,True,Not too much confidence,0,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+True independent,White,Bachelor's,True,A fair amount of confidence,1,0,Independents
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,Not too much confidence,0,0,Republicans
+Republican / lean R,Hispanic,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Black,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+True independent,White,Some college,False,Not too much confidence,0,0,Independents
+Democrat / lean D,White,Some college,False,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Asian,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+True independent,White,Bachelor's,True,A fair amount of confidence,1,0,Independents
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Asian,Postgrad,True,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Asian,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Asian,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Other,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Black,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Asian,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Asian,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,Black,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,Black,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Postgrad,True,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Asian,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+True independent,White,HS or less,False,A fair amount of confidence,1,0,Independents
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Republican / lean R,Hispanic,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,Not too much confidence,0,0,Republicans
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Asian,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+True independent,White,HS or less,False,A fair amount of confidence,1,0,Independents
+Republican / lean R,Other,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Asian,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Hispanic,Bachelor's,True,Not too much confidence,0,0,Republicans
+Republican / lean R,Asian,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Postgrad,True,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,HS or less,False,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,Black,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,Other,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Hispanic,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+True independent,White,HS or less,False,Not too much confidence,0,0,Independents
+True independent,White,Bachelor's,True,Not too much confidence,0,0,Independents
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,Some college,False,A fair amount of confidence,1,0,Republicans
+True independent,White,Bachelor's,True,A fair amount of confidence,1,0,Independents
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Hispanic,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Asian,Postgrad,True,A great deal of confidence,1,1,Democrats
+True independent,White,Postgrad,True,A fair amount of confidence,1,0,Independents
+Democrat / lean D,White,HS or less,False,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Postgrad,True,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A great deal of confidence,1,1,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Asian,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Asian,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Asian,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Black,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Black,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Other,Postgrad,True,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Hispanic,Postgrad,True,Not too much confidence,0,0,Republicans
+Republican / lean R,Asian,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,Black,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Black,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Asian,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,HS or less,False,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Asian,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,Hispanic,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,HS or less,False,A fair amount of confidence,1,0,Republicans
+True independent,White,Some college,False,A fair amount of confidence,1,0,Independents
+Democrat / lean D,White,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+True independent,White,Some college,False,A fair amount of confidence,1,0,Independents
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+True independent,Black,Some college,False,A fair amount of confidence,1,0,Independents
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Asian,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,Black,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,Hispanic,Bachelor's,True,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Some college,False,A great deal of confidence,1,1,Democrats
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,Asian,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Postgrad,True,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Postgrad,True,Not too much confidence,0,0,Republicans
+True independent,White,Some college,False,A fair amount of confidence,1,0,Independents
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Black,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A great deal of confidence,1,1,Democrats
+Republican / lean R,Black,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Asian,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,Hispanic,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+True independent,White,Bachelor's,True,A fair amount of confidence,1,0,Independents
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Some college,False,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+True independent,Black,Postgrad,True,A great deal of confidence,1,1,Independents
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,Postgrad,True,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+True independent,White,Some college,False,A fair amount of confidence,1,0,Independents
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Asian,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Asian,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Black,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Black,Bachelor's,True,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,Postgrad,True,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Asian,Some college,False,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,Not too much confidence,0,0,Republicans
+Democrat / lean D,Other,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Postgrad,True,A fair amount of confidence,1,0,Democrats
+True independent,White,HS or less,False,Not too much confidence,0,0,Independents
+Democrat / lean D,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Postgrad,True,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Asian,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Asian,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,Some college,False,A fair amount of confidence,1,0,Republicans
+True independent,Black,Some college,False,Not too much confidence,0,0,Independents
+Democrat / lean D,White,Postgrad,True,A great deal of confidence,1,1,Democrats
+True independent,White,HS or less,False,A fair amount of confidence,1,0,Independents
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Asian,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Asian,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Some college,False,A great deal of confidence,1,1,Democrats
+Democrat / lean D,Black,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Other,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Republican / lean R,Black,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,Asian,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Black,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Asian,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Asian,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Asian,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Bachelor's,True,Not too much confidence,0,0,Republicans
+True independent,White,Bachelor's,True,A fair amount of confidence,1,0,Independents
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,Black,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Black,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Asian,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Bachelor's,True,Not too much confidence,0,0,Republicans
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Other,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,Other,Bachelor's,True,Not too much confidence,0,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Hispanic,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+True independent,Hispanic,Some college,False,Not too much confidence,0,0,Independents
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Postgrad,True,A great deal of confidence,1,1,Democrats
+Republican / lean R,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Bachelor's,True,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Asian,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Other,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Other,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,Bachelor's,True,A great deal of confidence,1,1,Democrats
+True independent,White,HS or less,False,Not too much confidence,0,0,Independents
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Black,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Hispanic,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Other,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Postgrad,True,Not too much confidence,0,0,Republicans
+Republican / lean R,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Bachelor's,True,Not too much confidence,0,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Black,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,Not too much confidence,0,0,Republicans
+True independent,White,Bachelor's,True,A great deal of confidence,1,1,Independents
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Asian,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Asian,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+True independent,Black,HS or less,False,A fair amount of confidence,1,0,Independents
+Democrat / lean D,White,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Democrat / lean D,Asian,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Asian,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Asian,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,Black,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Postgrad,True,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+True independent,White,Bachelor's,True,A fair amount of confidence,1,0,Independents
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Postgrad,True,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Some college,False,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Other,HS or less,False,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Asian,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Other,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+True independent,Black,HS or less,False,A fair amount of confidence,1,0,Independents
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Black,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,Black,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Black,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Postgrad,True,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Republican / lean R,Asian,Some college,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+True independent,White,HS or less,False,Not too much confidence,0,0,Independents
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Asian,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,Not too much confidence,0,0,Republicans
+True independent,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Independents
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,Some college,False,A great deal of confidence,1,1,Democrats
+Democrat / lean D,Asian,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,Some college,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Some college,False,Not too much confidence,0,0,Republicans
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Republican / lean R,Black,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,Postgrad,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Some college,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,Hispanic,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Postgrad,True,A fair amount of confidence,1,0,Democrats
+Republican / lean R,Hispanic,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Some college,False,A fair amount of confidence,1,0,Republicans
+True independent,White,HS or less,False,Not too much confidence,0,0,Independents
+Republican / lean R,White,Bachelor's,True,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Hispanic,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+True independent,White,HS or less,False,A great deal of confidence,1,1,Independents
+Democrat / lean D,Hispanic,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,A fair amount of confidence,1,0,Republicans
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,Some college,False,A great deal of confidence,1,1,Democrats
+Democrat / lean D,White,Bachelor's,True,A great deal of confidence,1,1,Democrats
+Republican / lean R,White,Bachelor's,True,A fair amount of confidence,1,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Some college,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Other,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,Black,HS or less,False,A fair amount of confidence,1,0,Democrats
+Republican / lean R,White,HS or less,False,Not too much confidence,0,0,Republicans
+Democrat / lean D,White,HS or less,False,A fair amount of confidence,1,0,Democrats
+Democrat / lean D,White,Bachelor's,True,A fair amount of confidence,1,0,Democrats
