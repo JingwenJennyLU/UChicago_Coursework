@@ -1,0 +1,8 @@
+Dimension,Metric,Cells,MAE (pp),"Signed bias (AI − Human, pp)",Pearson r,p-value
+1. Party,% at least fair,2,6.29,+6.29,1.000,1.0000
+2. Race/ethnicity,% at least fair,3,3.73,+2.62,0.779,0.4312
+3. Education,% great deal,2,19.44,-19.44,1.000,1.0000
+4. Party × Education,% great deal,4,19.24,-19.24,0.979,0.0214
+5. Race within Dems,% great deal,4,25.96,-25.96,0.963,0.0366
+POOLED Dims 1–2,% at least fair,5,4.75,+4.09,0.917,0.0282
+POOLED Dims 3–5,% great deal,10,21.97,-21.97,0.963,0.0000

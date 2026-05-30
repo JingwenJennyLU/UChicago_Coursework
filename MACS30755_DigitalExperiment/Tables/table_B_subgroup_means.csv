@@ -1,0 +1,16 @@
+Dimension,Subgroup,Metric,Human %,AI %,AI − Human (pp)
+1. Party,Democrats,% at least fair amount,88,100.0,12.0
+1. Party,Republicans,% at least fair amount,66,66.6,0.6
+2. Race/ethnicity,White,% at least fair amount,78,81.9,3.9
+2. Race/ethnicity,Black,% at least fair amount,77,82.7,5.7
+2. Race/ethnicity,Asian,% at least fair amount,85,83.3,-1.7
+3. Education,4-yr college+,% great deal,34,12.4,-21.6
+3. Education,No college degree,% great deal,22,4.8,-17.2
+4. Party × Education,Dem · 4-yr college+,% great deal,51,24.8,-26.2
+4. Party × Education,Dem · no college,% great deal,34,9.2,-24.8
+4. Party × Education,Rep · 4-yr college+,% great deal,15,0.0,-15.0
+4. Party × Education,Rep · no college,% great deal,11,0.0,-11.0
+5. Race within Dems,White Dems,% great deal,48,18.3,-29.7
+5. Race within Dems,Asian Dems,% great deal,45,16.7,-28.3
+5. Race within Dems,Hispanic Dems,% great deal,30,9.1,-20.9
+5. Race within Dems,Black Dems,% great deal,29,4.1,-24.9

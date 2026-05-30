@@ -1,0 +1,2 @@
+Test,Sample size (AI),Chi-square,Degrees of freedom,p-value,Interpretation
+Chi-square goodness-of-fit (AI distribution vs. Pew expected),800,234.37,3,1.57e-50,p < .001 ⇒ AI distribution is significantly different from Pew
